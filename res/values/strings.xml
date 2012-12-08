@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Tennis Matches</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_tab_host">Events Holder</string>
+    <string name="authority">com.bhagwad.tennis.provider</string>
+    <string name="no_player"><b>Can\'t find your player?</b>\n\nIt probably means there are no upcoming matches. Create widget to be notified of future matches when scheduled</string>
+
+</resources>
